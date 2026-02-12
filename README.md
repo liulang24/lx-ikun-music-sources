@@ -3,6 +3,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Macrohard0001/lx-ikun-music-sources?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Macrohard0001/lx-ikun-music-sources?style=social)
 
+### 通知：即日起本仓库由本人( @Macrohard0001 )与 @guoyue2010 共同维护
+
 ## 不要光fork不star啊，~~please一键三连~~谢谢了！
 
 ## 关于捐赠
